@@ -1,0 +1,6 @@
+{
+  "name": "Library Analytics",
+  "description": "College Library Management Data Analysis - A comprehensive, production-grade, API-free data analytics platform for college library operations, EDA, student borrowing trends, and inventory decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
